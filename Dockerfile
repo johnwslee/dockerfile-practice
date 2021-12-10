@@ -1,3 +1,5 @@
+# Author: John Lee
+
 FROM jupyter/minimal-notebook
 
 RUN conda install --quiet --yes \
